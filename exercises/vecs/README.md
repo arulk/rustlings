@@ -10,6 +10,7 @@ Vectors are a bit of a later chapter in the book, but we think that they're
 useful enough to talk about them a bit earlier. We shall be talking about
 the other useful data structure, hash maps, later.
 
+
 ## Further information
 
 - [Storing Lists of Values with Vectors](https://doc.rust-lang.org/stable/book/ch08-01-vectors.html)
